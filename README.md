@@ -6,3 +6,4 @@ This consists of various VBA projects.
 Projects Ongoing 
 
 1. Sending Mail
+2. Searching for an item in the database
