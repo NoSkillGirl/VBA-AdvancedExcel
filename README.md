@@ -1,9 +1,10 @@
 
-This consists of various VBA projects.
+This consists of various VBA & Advanced Excel projects.
 
 1. Dummy Database
+2. Shopping Cart - Search and total cart value using Advanced Excel
 
 Projects Ongoing 
 
-1. Sending Mail
-2. Searching for an item in the database
+1. Sending Mail using VBA
+
