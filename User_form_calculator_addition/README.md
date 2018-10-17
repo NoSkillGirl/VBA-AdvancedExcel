@@ -1,7 +1,6 @@
-This file consist of a form which takes two integer as input and give there sum as output.
+This file consists of a user form which takes two integer values as input and returns their sum as output.
 
 Details:
--Add button: to add the numbers
--Reset button: to reset the form
--Quit button: to quit the form
-
+ - Add button: To add the numbers
+ - Reset button: To reset the form
+ - Quit button: To quit the form
