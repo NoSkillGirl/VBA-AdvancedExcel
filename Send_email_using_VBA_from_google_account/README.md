@@ -1,6 +1,9 @@
 Scenario:
+Your associate created monthly report for all the clients. She saved all files in a folder. She named the files according to client_name.
 
-Need to send report to different different clients. Where the reports are in the format 'company_name.xlsx' and all are saved in a folder.
+You have a list of client names, contact person & contact email address.
+
+Your associate gives you folder location. Your job is to send client_name.xlsx from the folder given by your associate to client_email_address.
 
 How to use the file:
 - Enter the folder location, email id and password in sheet1.
