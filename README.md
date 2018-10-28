@@ -8,10 +8,13 @@ This consists of various VBA & Advanced Excel projects.
 5. Sending Mail using VBA.
 6. List files and folders details using VBA.
 7. User form for a basic calculator with basic operations
+8. Weather forecasting
+    -  used XML
+    -  used JSON 
+9. Consolidating data from n number of sheets to a single sheet by matching the headers
 
 Projects Ongoing 
 
 1. User Form for quick query search in database using VBA
-2. Weather forcasting
-3. Currency converter
+2. Currency converter
 
