@@ -12,6 +12,8 @@ This consists of various VBA & Advanced Excel projects.
     -  used XML
     -  used JSON 
 9. Consolidating data from n number of sheets to a single sheet by matching the headers
+10. Bubble sort - Select a range of numbers and arrange them in ascending order.
+
 
 Projects Ongoing 
 
