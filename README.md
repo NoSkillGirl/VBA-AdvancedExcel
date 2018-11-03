@@ -14,9 +14,10 @@ This consists of various VBA & Advanced Excel projects.
 9. Consolidating data from n number of sheets to a single sheet by matching the headers
 10. Bubble sort - Select a range of numbers and arrange them in ascending order.
 11. Count multiple of 5 in a selected range
+12. Guessing game
 
 Projects Ongoing 
 
 1. User Form for quick query search in database using VBA
 2. Currency converter
-3. Guessing game
+
