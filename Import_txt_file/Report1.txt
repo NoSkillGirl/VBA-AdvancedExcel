@@ -1,0 +1,6 @@
+-----Report-----
+
+Time:	13:00
+Temperature:	69
+pH:	7
+d02:	46.5%
