@@ -16,7 +16,10 @@ This consists of various VBA & Advanced Excel projects.
 11. Count multiple of 5 in a selected range
 12. Guessing game
 13. Add 5 to a selected range (do not replace the values)
-14. 
+14. Export excel data to .txt file
+15. Import .txt file data to excel
+16. Find 5 in a selected range and output row and column details
+17. Extracting email from specific formats
 
 Projects Ongoing 
 
