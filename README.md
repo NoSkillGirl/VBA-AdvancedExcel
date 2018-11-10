@@ -20,6 +20,10 @@ This consists of various VBA & Advanced Excel projects.
 15. Import .txt file data to excel
 16. Find 5 in a selected range and output row and column details
 17. Extracting email from specific formats
+18. Count number of 5's present in a workbook in different sheets
+19. Consolidate a scentance from words present in different sheets
+20. Employee meeting sheet
+
 
 Projects Ongoing 
 
