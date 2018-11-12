@@ -22,15 +22,17 @@ This consists of various VBA & Advanced Excel projects.
 17. Extracting email from specific formats
 18. Count number of 5's present in a workbook in different sheets
 19. Consolidate a sentence from words present in different sheets
-20. Employee meeting sheet
+20. Employee meeting sheet (worksheets)
 21. Count 5 in selected workbooks
 22. Consolidate sentence from words present in different workbooks
 23. Open workbook/s
-
+24. Fuel efficiency calculator
+25. Deleting items from combobox
+26. Consolidate employee sheet (workbooks)
 
 Projects Ongoing 
 
 1. User Form for quick query search in database using VBA
 2. Currency converter
 3. Quick sort
-4. Fuel efficency user form
+
