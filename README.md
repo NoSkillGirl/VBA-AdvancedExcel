@@ -29,6 +29,8 @@ This consists of various VBA & Advanced Excel projects.
 24. Fuel efficiency calculator
 25. Deleting items from combobox
 26. Consolidate employee sheet (workbooks)
+27. Chemical element userform
+
 
 Projects Ongoing 
 
