@@ -30,11 +30,12 @@ This consists of various VBA & Advanced Excel projects.
 25. Deleting items from combobox
 26. Consolidate employee sheet (workbooks)
 27. Chemical element userform
-
+28. Currency converter
+29. Combobox - one dependent on nother
+30. Userform - one dependent on other (city search example)
 
 Projects Ongoing 
 
 1. User Form for quick query search in database using VBA
-2. Currency converter
-3. Quick sort
+2. Quick sort
 
