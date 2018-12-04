@@ -35,8 +35,4 @@ This consists of various VBA & Advanced Excel projects.
 30. Userform - one dependent on other (city search example)
 31. Ultimate organizer
 
-Projects Ongoing 
-
-1. User Form for quick query search in database using VBA
-2. Quick sort
 
