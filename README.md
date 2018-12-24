@@ -34,5 +34,6 @@ This consists of various VBA & Advanced Excel projects.
 29. Combobox - one dependent on nother
 30. Userform - one dependent on other (city search example)
 31. Ultimate organizer
+32. VBA and Filter (category - sub category)
 
 
